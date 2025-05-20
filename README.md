@@ -15,13 +15,10 @@ A mini project by **Sadanand Pai** — this simple counter app lets you incremen
 - CSS
 - JavaScript
 
-## 📸 Preview
 
-<!-- Optional: Add a screenshot if you have one -->
-<!-- ![Counter App Preview](preview.png) -->
 
 ## 💻 Getting Started
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/counter-app.git
+   git clone (https://github.com/Prateek-ind/Counter)
